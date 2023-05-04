@@ -1,1 +1,3 @@
-# polymorphic_power_rangers
+# README
+
+Dumb example of using polymorphic associations
